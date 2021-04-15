@@ -7,6 +7,8 @@ public class Main {
 		String saludon = "Hola";
 
 		int edadLimite = 25;
+		
+		String nombre = "Nacho";
 	}
 
 }
